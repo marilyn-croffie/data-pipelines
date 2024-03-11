@@ -1,1 +1,1 @@
-# data-pipelines
+An automated Extract, Transform, Load (ETL) process to extract daily weather forecast and observed weather data (for Casablanca, Morocco) and load it into a live report to be used for further analysis. One of such analysis included is a script to report weekly statistics of historical forecasting accuracy.
